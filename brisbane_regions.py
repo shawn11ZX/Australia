@@ -1,7 +1,7 @@
 import xml
 
 import xml.etree.ElementTree as ET
-tree = ET.parse('regions.xml')
+tree = ET.parse('brisbane_regions.xml')
 root = tree.getroot()
 index = 0
 

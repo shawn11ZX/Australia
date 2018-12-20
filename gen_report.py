@@ -1,9 +1,11 @@
 from pathlib import Path
+import os
 import xml.etree.ElementTree as ET
 
 path = Path("gen_report.params")
 
-with Path("brisbane.html").open("w") as output:
+output_fn = "brisbane.html"
+with Path(output_fn).open("w") as output:
     output.write(f"<form action='https://statistics.qgso.qld.gov.au/bccstats/request-profile' method='post'>\n")
 
     with path.open("r") as f:
@@ -24,3 +26,5 @@ with Path("brisbane.html").open("w") as output:
                     output.write(f"<input name='{k}' value='{v}'type='hidden'/>\n")
         output.write(f'<input type="submit" value="Submit">\n')
         output.write(f"</form>\n")
+
+os.system(f"start {output_fn}")
