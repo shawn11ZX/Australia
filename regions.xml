@@ -1,0 +1,238 @@
+<ul>
+    <li class="result-selected" data-option-array-index="0" data-value="7962" style="">Albany Creek (outside of Brisbane City LGA)</li>
+<li class="result-selected" data-option-array-index="1" data-value="7699" style="">Albion</li>
+<li class="result-selected" data-option-array-index="2" data-value="7700" style="">Alderley</li>
+<li class="result-selected" data-option-array-index="3" data-value="7581" style="">Alexandra Hills (outside of Brisbane City LGA)</li>
+<li class="result-selected" data-option-array-index="4" data-value="7652" style="">Algester</li>
+<li class="result-selected" data-option-array-index="5" data-value="7632" style="">Annerley</li>
+<li class="result-selected" data-option-array-index="6" data-value="7701" style="">Ascot</li>
+<li class="result-selected" data-option-array-index="7" data-value="7712" style="">Ashgrove</li>
+<li class="result-selected" data-option-array-index="8" data-value="7607" style="">Aspley</li>
+<li class="result-selected" data-option-array-index="9" data-value="7713" style="">Auchenflower</li>
+<li class="active-result" data-option-array-index="10" data-value="7602" style="">Bald Hills</li>
+<li class="active-result" data-option-array-index="11" data-value="7693" style="">Balmoral</li>
+<li class="active-result" data-option-array-index="12" data-value="7714" style="">Bardon</li>
+<li class="active-result" data-option-array-index="13" data-value="7942" style="">Beachmere - Sandstone Point (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="14" data-value="7885" style="">Beaudesert (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="15" data-value="7886" style="">Beenleigh (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="16" data-value="7876" style="">Bellbird Park - Brookwater (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="17" data-value="7666" style="">Bellbowrie - Moggill</li>
+<li class="active-result" data-option-array-index="18" data-value="7582" style="">Belmont - Gumdale</li>
+<li class="active-result" data-option-array-index="19" data-value="7903" style="">Bethania - Waterford (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="20" data-value="7583" style="">Birkdale (outside of Brisbane City LGA)</li>
+<li class="result-selected" data-option-array-index="21" data-value="7857" style="">Boonah (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="22" data-value="7615" style="">Boondall</li>
+<li class="active-result" data-option-array-index="23" data-value="7891" style="">Boronia Heights - Park Ridge (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="24" data-value="7621" style="">Bracken Ridge</li>
+<li class="active-result" data-option-array-index="25" data-value="7863" style="">Brassall (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="26" data-value="7971" style="">Bray Park (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="27" data-value="7943" style="">Bribie Island (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="28" data-value="7603" style="">Bridgeman Downs</li>
+<li class="active-result" data-option-array-index="29" data-value="7622" style="">Brighton (Qld)</li>
+<li class="active-result" data-option-array-index="30" data-value="7616" style="">Brisbane Airport</li>
+<li class="active-result" data-option-array-index="31" data-value="7685" style="">Brisbane City</li>
+<li class="active-result" data-option-array-index="32" data-value="7594" style="">Brisbane Port - Lytton</li>
+<li class="active-result" data-option-array-index="33" data-value="7667" style="">Brookfield - Kenmore Hills</li>
+<li class="active-result" data-option-array-index="34" data-value="7892" style="">Browns Plains (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="35" data-value="7694" style="">Bulimba</li>
+<li class="active-result" data-option-array-index="36" data-value="7864" style="">Bundamba (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="37" data-value="7952" style="">Burpengary (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="38" data-value="7944" style="">Burpengary - East (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="39" data-value="7945" style="">Caboolture (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="40" data-value="7946" style="">Caboolture - South (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="41" data-value="7653" style="">Calamvale - Stretton</li>
+<li class="active-result" data-option-array-index="42" data-value="7877" style="">Camira - Gailes (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="43" data-value="7627" style="">Camp Hill</li>
+<li class="active-result" data-option-array-index="44" data-value="7628" style="">Cannon Hill</li>
+<li class="active-result" data-option-array-index="45" data-value="7584" style="">Capalaba (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="46" data-value="7629" style="">Carina</li>
+<li class="active-result" data-option-array-index="47" data-value="7630" style="">Carina Heights</li>
+<li class="active-result" data-option-array-index="48" data-value="7631" style="">Carindale</li>
+<li class="active-result" data-option-array-index="49" data-value="7878" style="">Carole Park (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="50" data-value="7604" style="">Carseldine</li>
+<li class="active-result" data-option-array-index="51" data-value="7963" style="">Cashmere (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="52" data-value="7893" style="">Chambers Flat - Logan Reserve (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="53" data-value="7668" style="">Chapel Hill</li>
+<li class="active-result" data-option-array-index="54" data-value="7672" style="">Chelmer - Graceville</li>
+<li class="active-result" data-option-array-index="55" data-value="7608" style="">Chermside</li>
+<li class="active-result" data-option-array-index="56" data-value="7609" style="">Chermside West</li>
+<li class="active-result" data-option-array-index="57" data-value="7865" style="">Churchill - Yamanto (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="58" data-value="7702" style="">Clayfield</li>
+<li class="active-result" data-option-array-index="59" data-value="7587" style="">Cleveland (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="60" data-value="7957" style="">Clontarf (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="61" data-value="7879" style="">Collingwood Park - Redbank (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="62" data-value="7647" style="">Coopers Plains</li>
+<li class="active-result" data-option-array-index="63" data-value="7633" style="">Coorparoo</li>
+<li class="active-result" data-option-array-index="64" data-value="7673" style="">Corinda</li>
+<li class="active-result" data-option-array-index="65" data-value="7904" style="">Cornubia - Carbrook (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="66" data-value="7894" style="">Crestmead (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="67" data-value="7909" style="">Daisy Hill (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="68" data-value="7968" style="">Dakabin - Kallangur (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="69" data-value="7851" style="">Darra - Sumner</li>
+<li class="active-result" data-option-array-index="70" data-value="7964" style="">Dayboro (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="71" data-value="7623" style="">Deagon</li>
+<li class="active-result" data-option-array-index="72" data-value="7953" style="">Deception Bay (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="73" data-value="7852" style="">Durack</li>
+<li class="active-result" data-option-array-index="74" data-value="7617" style="">Eagle Farm - Pinkenba</li>
+<li class="active-result" data-option-array-index="75" data-value="7887" style="">Eagleby (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="76" data-value="7695" style="">East Brisbane</li>
+<li class="active-result" data-option-array-index="77" data-value="7965" style="">Eatons Hill (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="78" data-value="7888" style="">Edens Landing - Holmview (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="79" data-value="7640" style="">Eight Mile Plains</li>
+<li class="active-result" data-option-array-index="80" data-value="7947" style="">Elimbah (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="81" data-value="7678" style="">Enoggera</li>
+<li class="active-result" data-option-array-index="82" data-value="7679" style="">Enoggera Reservoir</li>
+<li class="active-result" data-option-array-index="83" data-value="7858" style="">Esk (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="84" data-value="7605" style="">Everton Park</li>
+<li class="active-result" data-option-array-index="85" data-value="7634" style="">Fairfield - Dutton Park</li>
+<li class="active-result" data-option-array-index="86" data-value="7669" style="">Fig Tree Pocket</li>
+<li class="active-result" data-option-array-index="87" data-value="7853" style="">Forest Lake - Doolandella</li>
+<li class="active-result" data-option-array-index="88" data-value="7686" style="">Fortitude Valley</li>
+<li class="active-result" data-option-array-index="89" data-value="7610" style="">Geebung</li>
+<li class="active-result" data-option-array-index="90" data-value="7880" style="">Goodna (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="91" data-value="7703" style="">Grange</li>
+<li class="active-result" data-option-array-index="92" data-value="7900" style="">Greenbank (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="93" data-value="7895" style="">Greenbank Military Camp (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="94" data-value="7635" style="">Greenslopes</li>
+<li class="active-result" data-option-array-index="95" data-value="7704" style="">Hamilton (Qld)</li>
+<li class="active-result" data-option-array-index="96" data-value="7696" style="">Hawthorne</li>
+<li class="active-result" data-option-array-index="97" data-value="7705" style="">Hendra</li>
+<li class="active-result" data-option-array-index="98" data-value="7687" style="">Highgate Hill</li>
+<li class="active-result" data-option-array-index="99" data-value="7896" style="">Hillcrest (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="100" data-value="7636" style="">Holland Park</li>
+<li class="active-result" data-option-array-index="101" data-value="7637" style="">Holland Park West</li>
+<li class="active-result" data-option-array-index="102" data-value="7854" style="">Inala - Richlands</li>
+<li class="active-result" data-option-array-index="103" data-value="7674" style="">Indooroopilly</li>
+<li class="active-result" data-option-array-index="104" data-value="7866" style="">Ipswich - Central (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="105" data-value="7867" style="">Ipswich - East (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="106" data-value="7868" style="">Ipswich - North (partially within Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="107" data-value="7901" style="">Jimboomba (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="108" data-value="7661" style="">Jindalee - Mount Ommaney</li>
+<li class="active-result" data-option-array-index="109" data-value="7688" style="">Kangaroo Point</li>
+<li class="active-result" data-option-array-index="110" data-value="7869" style="">Karalee - Barellan Point (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="111" data-value="7870" style="">Karana Downs</li>
+<li class="active-result" data-option-array-index="112" data-value="7611" style="">Kedron - Gordon Park</li>
+<li class="active-result" data-option-array-index="113" data-value="7706" style="">Kelvin Grove - Herston</li>
+<li class="active-result" data-option-array-index="114" data-value="7670" style="">Kenmore</li>
+<li class="active-result" data-option-array-index="115" data-value="7680" style="">Keperra</li>
+<li class="active-result" data-option-array-index="116" data-value="7950" style="">Kilcoy (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="117" data-value="20660" style="">Kingston (Qld.) (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="118" data-value="7657" style="">Kuraby</li>
+<li class="active-result" data-option-array-index="119" data-value="7859" style="">Lake Manchester - England Creek</li>
+<li class="active-result" data-option-array-index="120" data-value="7972" style="">Lawnton (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="121" data-value="7871" style="">Leichhardt - One Mile (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="122" data-value="7860" style="">Lockyer Valley - East (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="123" data-value="7911" style="">Logan Central (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="124" data-value="7902" style="">Logan Village (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="125" data-value="7905" style="">Loganholme - Tanah Merah (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="126" data-value="7906" style="">Loganlea (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="127" data-value="7861" style="">Lowood (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="128" data-value="7641" style="">Macgregor (Qld)</li>
+<li class="active-result" data-option-array-index="129" data-value="7595" style="">Manly - Lota</li>
+<li class="active-result" data-option-array-index="130" data-value="7596" style="">Manly West</li>
+<li class="active-result" data-option-array-index="131" data-value="7642" style="">Mansfield (Qld)</li>
+<li class="active-result" data-option-array-index="132" data-value="7958" style="">Margate - Woody Point (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="133" data-value="7897" style="">Marsden (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="134" data-value="7606" style="">McDowall</li>
+<li class="active-result" data-option-array-index="135" data-value="7662" style="">Middle Park - Jamboree Heights</li>
+<li class="active-result" data-option-array-index="136" data-value="7681" style="">Mitchelton (partially within Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="137" data-value="7648" style="">Moorooka</li>
+<li class="active-result" data-option-array-index="138" data-value="7954" style="">Morayfield (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="139" data-value="7948" style="">Morayfield - East (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="140" data-value="7697" style="">Morningside - Seven Hills</li>
+<li class="active-result" data-option-array-index="141" data-value="7682" style="">Mount Coot-tha</li>
+<li class="active-result" data-option-array-index="142" data-value="7643" style="">Mount Gravatt</li>
+<li class="active-result" data-option-array-index="143" data-value="7889" style="">Mount Warren Park (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="144" data-value="7898" style="">Munruben - Park Ridge South (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="145" data-value="7597" style="">Murarrie</li>
+<li class="active-result" data-option-array-index="146" data-value="7969" style="">Murrumba Downs - Griffin (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="147" data-value="7955" style="">Narangba (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="148" data-value="7881" style="">New Chum (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="149" data-value="7689" style="">New Farm</li>
+<li class="active-result" data-option-array-index="150" data-value="7707" style="">Newmarket</li>
+<li class="active-result" data-option-array-index="151" data-value="7708" style="">Newstead - Bowen Hills</li>
+<li class="active-result" data-option-array-index="152" data-value="7698" style="">Norman Park</li>
+<li class="active-result" data-option-array-index="153" data-value="7872" style="">North Ipswich - Tivoli (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="154" data-value="7970" style="">North Lakes - Mango Hill (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="155" data-value="7618" style="">Northgate - Virginia</li>
+<li class="active-result" data-option-array-index="156" data-value="7619" style="">Nudgee - Banyo</li>
+<li class="active-result" data-option-array-index="157" data-value="7620" style="">Nundah</li>
+<li class="active-result" data-option-array-index="158" data-value="7588" style="">Ormiston (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="159" data-value="7855" style="">Oxley (Qld)</li>
+<li class="active-result" data-option-array-index="160" data-value="7715" style="">Paddington - Milton</li>
+<li class="active-result" data-option-array-index="161" data-value="7654" style="">Pallara - Willawong</li>
+<li class="active-result" data-option-array-index="162" data-value="7655" style="">Parkinson - Drewvale</li>
+<li class="active-result" data-option-array-index="163" data-value="7973" style="">Petrie (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="164" data-value="7671" style="">Pinjarra Hills - Pullenvale</li>
+<li class="active-result" data-option-array-index="165" data-value="7873" style="">Raceview (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="166" data-value="7716" style="">Red Hill (Qld)</li>
+<li class="active-result" data-option-array-index="167" data-value="7882" style="">Redbank Plains (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="168" data-value="7959" style="">Redcliffe (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="169" data-value="7589" style="">Redland Bay (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="170" data-value="21419" style="">Redland Islands (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="171" data-value="7899" style="">Regents Park - Heritage Park (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="172" data-value="7874" style="">Ripley (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="173" data-value="7663" style="">Riverhills</li>
+<li class="active-result" data-option-array-index="174" data-value="7875" style="">Riverview (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="175" data-value="7649" style="">Robertson</li>
+<li class="active-result" data-option-array-index="176" data-value="7644" style="">Rochedale - Burbank</li>
+<li class="active-result" data-option-array-index="177" data-value="7912" style="">Rochedale South - Priestdale (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="178" data-value="7656" style="">Rocklea - Acacia Ridge</li>
+<li class="active-result" data-option-array-index="179" data-value="7862" style="">Rosewood (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="180" data-value="7960" style="">Rothwell - Kippa-Ring (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="181" data-value="7658" style="">Runcorn</li>
+<li class="active-result" data-option-array-index="182" data-value="7650" style="">Salisbury - Nathan</li>
+<li class="active-result" data-option-array-index="183" data-value="7967" style="">Samford Valley (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="184" data-value="7624" style="">Sandgate - Shorncliffe</li>
+<li class="active-result" data-option-array-index="185" data-value="21420" style="">Scarborough - Newport - Moreton Island (partially within Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="186" data-value="7664" style="">Seventeen Mile Rocks - Sinnamon Park</li>
+<li class="active-result" data-option-array-index="187" data-value="7907" style="">Shailer Park (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="188" data-value="7591" style="">Sheldon - Mount Cotton (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="189" data-value="7675" style="">Sherwood</li>
+<li class="active-result" data-option-array-index="190" data-value="7913" style="">Slacks Creek (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="191" data-value="7690" style="">South Brisbane</li>
+<li class="active-result" data-option-array-index="192" data-value="7691" style="">Spring Hill</li>
+<li class="active-result" data-option-array-index="193" data-value="7883" style="">Springfield (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="194" data-value="7884" style="">Springfield Lakes (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="195" data-value="7914" style="">Springwood (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="196" data-value="7676" style="">St Lucia</li>
+<li class="active-result" data-option-array-index="197" data-value="7612" style="">Stafford</li>
+<li class="active-result" data-option-array-index="198" data-value="7613" style="">Stafford Heights</li>
+<li class="active-result" data-option-array-index="199" data-value="7974" style="">Strathpine - Brendale (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="200" data-value="7659" style="">Sunnybank</li>
+<li class="active-result" data-option-array-index="201" data-value="7660" style="">Sunnybank Hills</li>
+<li class="active-result" data-option-array-index="202" data-value="7625" style="">Taigum - Fitzgibbon</li>
+<li class="active-result" data-option-array-index="203" data-value="7677" style="">Taringa</li>
+<li class="active-result" data-option-array-index="204" data-value="7651" style="">Tarragindi</li>
+<li class="active-result" data-option-array-index="205" data-value="7683" style="">The Gap</li>
+<li class="active-result" data-option-array-index="206" data-value="20661" style="">The Hills District (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="207" data-value="7585" style="">Thorneside (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="208" data-value="7592" style="">Thornlands (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="209" data-value="7598" style="">Tingalpa</li>
+<li class="active-result" data-option-array-index="210" data-value="7717" style="">Toowong</li>
+<li class="active-result" data-option-array-index="211" data-value="7915" style="">Underwood (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="212" data-value="7956" style="">Upper Caboolture (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="213" data-value="7684" style="">Upper Kedron - Ferny Grove</li>
+<li class="active-result" data-option-array-index="214" data-value="7645" style="">Upper Mount Gravatt</li>
+<li class="active-result" data-option-array-index="215" data-value="7593" style="">Victoria Point (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="216" data-value="7856" style="">Wacol</li>
+<li class="active-result" data-option-array-index="217" data-value="7599" style="">Wakerley</li>
+<li class="active-result" data-option-array-index="218" data-value="7949" style="">Wamuran (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="219" data-value="7908" style="">Waterford West (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="220" data-value="7614" style="">Wavell Heights</li>
+<li class="active-result" data-option-array-index="221" data-value="7586" style="">Wellington Point (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="222" data-value="7692" style="">West End</li>
+<li class="active-result" data-option-array-index="223" data-value="7665" style="">Westlake</li>
+<li class="active-result" data-option-array-index="224" data-value="7709" style="">Wilston</li>
+<li class="active-result" data-option-array-index="225" data-value="7710" style="">Windsor</li>
+<li class="active-result" data-option-array-index="226" data-value="7646" style="">Wishart</li>
+<li class="active-result" data-option-array-index="227" data-value="7890" style="">Wolffdene - Bahrs Scrub (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="228" data-value="7951" style="">Woodford - D'Aguilar (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="229" data-value="7916" style="">Woodridge (outside of Brisbane City LGA)</li>
+<li class="active-result" data-option-array-index="230" data-value="7638" style="">Woolloongabba</li>
+<li class="active-result" data-option-array-index="231" data-value="7711" style="">Wooloowin - Lutwyche</li>
+<li class="active-result" data-option-array-index="232" data-value="7600" style="">Wynnum</li>
+<li class="active-result" data-option-array-index="233" data-value="7601" style="">Wynnum West - Hemmant</li>
+<li class="active-result" data-option-array-index="234" data-value="7639" style="">Yeronga</li>
+<li class="active-result" data-option-array-index="235" data-value="7626" style="">Zillmere</li>
+</ul>
